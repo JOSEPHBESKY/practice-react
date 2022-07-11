@@ -1,0 +1,16 @@
+.container{
+    background-color:aqua;
+    padding:25px;
+  }
+  .logo{
+    margin-left:30px;
+    text-decoration:none;
+  }
+  .home{
+    margin-left:80%;
+    text-decoration:none;
+  }
+  .cart{
+    margin-right:80%;
+    text-decoration:none;
+  }
